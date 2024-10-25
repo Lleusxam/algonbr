@@ -10,7 +10,7 @@ const Home = () => {
         <div className="hero">
           {/* Large Image */}
           <img 
-            src="https://placehold.co/1920x600" 
+            src="https://placehold.co/1920x600"
             className="img-fluid w-100" 
             alt="Banner" 
           />
