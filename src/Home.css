@@ -1,0 +1,9 @@
+.hero {
+    position: relative;
+  }
+  
+  .hero img {
+    height: 600px; /* Define uma altura para a imagem */
+    object-fit: cover; /* Garante que a imagem mantenha proporção */
+  }
+  
