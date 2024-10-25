@@ -10,7 +10,7 @@ const Home = () => {
         <div className="hero">
           {/* Large Image */}
           <img 
-            src="https://criticalhits.com.br/wp-content/uploads/2018/10/goku-ssj3-1060124-1280x0.jpg" 
+            src="https://placehold.co/1920x600" 
             className="img-fluid w-100" 
             alt="Banner" 
           />
@@ -23,7 +23,7 @@ const Home = () => {
           <div className="col-md-8 text-center">
             <h1 className="display-4">Bem-vindo ao Algon!</h1>
             <p className="lead">
-                Aqui será colocado o texto de apresentação do site.
+            Na ALGON, transformamos o desafio das emissões de CO2 em oportunidades. Usamos tecnologias de ponta para capturar dióxido de carbono com pureza de 99,9%, ajudando indústrias a reduzir sua pegada de carbono e gerar valor econômico. Além disso, nossos projetos sociais promovem o uso de CO2 capturado em comunidades carentes, impulsionando o desenvolvimento sustentável e social.
             </p>
           </div>
         </div>
