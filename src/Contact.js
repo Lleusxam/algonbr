@@ -5,7 +5,7 @@ const Contact = () => {
 
       {/* Main Content */}
       <div className="container my-5">
-        <h1 className="text-center">Contato</h1>
+        <h1 className="text-center titulo">Contato</h1>
         <div className="row justify-content-center">
           <div className="col-md-8">
             <div className="card mb-4">
@@ -16,7 +16,7 @@ const Contact = () => {
                 </p>
                 <ul className="list-unstyled">
                   <li>
-                    <strong>Telefone:</strong> (83) 1234-5678
+                    <strong>Telefone:</strong> (83) 3569-8341
                   </li>
                   <li>
                     <strong>E-mail:</strong> <a href="mailto:contato@algonbr.com.br">contato@algonbr.com.br</a>

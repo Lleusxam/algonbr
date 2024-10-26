@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-link {
+  color: #2a5c47 !important;
+}
+
+.titulo {
+  color: #2a5c47 !important;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: bold;
+}
