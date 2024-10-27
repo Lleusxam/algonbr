@@ -20,7 +20,7 @@ const About = () => {
 
             {/* Description */}
             <p className="lead mt-4">
-              A ALGON é uma empresa focada em soluções tecnológicas para captura e reutilização de dióxido de carbono (CO2) com impacto ambiental e social. Nossa tecnologia inovadora garante CO2 de alta pureza, essencial para indústrias que necessitam de soluções eficientes para reduzir emissões. Além disso, investimos em iniciativas que utilizam esse CO2 em projetos comunitários, promovendo energia renovável e sustentabilidade local.
+              A algon é uma empresa focada em soluções tecnológicas para captura e reutilização de dióxido de carbono (CO2) com impacto ambiental e social. Nossa tecnologia inovadora garante CO2 de alta pureza, essencial para indústrias que necessitam de soluções eficientes para reduzir emissões. Além disso, investimos em iniciativas que utilizam esse CO2 em projetos comunitários, promovendo energia renovável e sustentabilidade local.
             </p>
 
             {/* Mission, Vision, and Values Sections */}
